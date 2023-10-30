@@ -1,18 +1,42 @@
-name: Propose tag to the tags-league
-title: "Tag proposition: tagname"
-description: "Propose a tag to be included in the 🏆tags-league"
-labels: ["tag-proposition"]
-assignees:
-  - johannchopin
-body:
-  - type: markdown
-    attributes:
-      value: |
-        Thank you for your interest in expanding the 🏆tags-league!
-  - type: input
-    id: tagName
-    attributes:
-      label: Name of the tag
-      placeholder: ex. javascript
-    validations:
-      required: true
+## Description
+<!-- 
+Please do not leave this blank 
+This PR [adds/removes/fixes/replaces] the [feature/bug/etc]. 
+-->
+
+## What type of PR is this? (check all applicable)
+
+- [ ] ✨ Feature
+- [ ] 🐛 Bug Fix
+- [ ] 📝 Documentation Update
+- [ ] 🎨 Style
+- [ ] 🧑‍💻 Code Refactor
+- [ ] ⚡️ Performance Improvements
+- [ ] ✅ Test
+- [ ] 🤖 Build
+- [ ] 🔁 CI
+- [ ] 📦 Chore (Release)
+- [ ] ⏩ Revert
+
+## Link to JIRA ticket(s)
+<!-- Ex: https://buycoteam.atlassian.net/browse/FOO-42 -->
+
+## Link to API ticket
+<!-- If none please remove this section -->
+- [ ] https://github.com/buyco/api/pull/xxx
+
+
+## Screenshots
+<!-- If none please remove this section -->
+
+
+## Added tests?
+
+- [ ] 👍 Yes
+- [ ] 🙅 No, because they aren't needed
+- [ ] 🙋 No, because I need help
+
+
+## [optional] What gif best describes this PR or how it makes you feel? 😉
+
+
